@@ -12,4 +12,4 @@ plot_statistics.py: plots the training results
 run main.py to start the training of a neural network.  
 The parameters and which model to use can be specified at the top of the file.   
 Use plot_statistics.py to plot the results  
-The code is written in Python 3 and environment.yml shows a working configuration of packages for the program.
+The code is written in Python 3 and Tensorflow 1.12.0
