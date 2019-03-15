@@ -1,5 +1,6 @@
 ## Fashion MNIST
-Implementation of a dense Neural Network and a Convolutional Neural Network in Tensorflow
+Implementation of a dense Neural Network and a Convolutional Neural Network in Tensorflow.
+Read about the results in the [Fashion_MNIST.pdf](https://github.com/MammutimEis/Neural_Network_Fashion_MNIST/blob/master/Fashion_MNIST.pdf)
 
 ## Files
 main.py: creates the dataset and trains the model  
